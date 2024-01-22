@@ -1,4 +1,4 @@
-def sumar(a, b):
+def sumar(a, b): # Suma
     return a + b
 
 def restar(a, b):
